@@ -47,7 +47,8 @@
 <img src="https://img.shields.io/badge/Stock_Trading-240046?style=for-the-badge&logo=tradingview&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-10002B?style=for-the-badge&logo=hackerone&logoColor=white" />
 
-<br/><br/>
+<br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Pandas-9D4EDD?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-7209B7?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -62,11 +63,13 @@
 ## 🚀 **Featured Projects**
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Rocket" width="30" /> 📈 **AI-DS-Masterpiece** - AI & Data Science Projects Hub
+
 A comprehensive collection of cutting-edge AI and Data Science projects showcasing innovative solutions and practical implementations.
 
 [![Repo](https://img.shields.io/badge/Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolvyrEryx/AI-DS-Masterpiece)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> 🔐 **CyberGuardians** - Advanced Security Framework
+
 A powerful cybersecurity framework designed to protect digital assets through advanced threat detection, penetration testing, and security analytics.
 
 [![Repo](https://img.shields.io/badge/Repository-7209B7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolvyrEryx/CyberGuardians)
@@ -112,9 +115,26 @@ A powerful cybersecurity framework designed to protect digital assets through ad
 
 ---
 
-## 💜 **Profile Views**
+## 💜 **Profile Analytics**
 
-<img src="https://komarev.com/ghpvc/?username=SolvyrEryx&style=for-the-badge" alt="Profile Views" />
+<!-- GitHub Traffic Stats (Manual Update) -->
+**Current Profile Views:** Update this number periodically to reflect your actual GitHub profile traffic.
+
+> **Note:** GitHub doesn't provide a public API for automatic profile view tracking. To maintain accuracy:
+> 1. Check your profile traffic in **Settings → Insights → Traffic**
+> 2. Update the view count here manually whenever you check
+> 3. For automated tracking, consider using GitHub Actions with the GitHub API (requires authentication)
+
+**Last Updated:** October 30, 2025
+
+<!-- Alternative: Use GitHub Actions for Automated Updates -->
+<!-- 
+To implement auto-updating profile views:
+1. Create a GitHub Action workflow that runs on schedule
+2. Use GitHub's REST API to fetch repository statistics
+3. Update this README automatically via the workflow
+4. Note: This requires repository secrets for authentication
+-->
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=150&section=footer" width="100%"/>
