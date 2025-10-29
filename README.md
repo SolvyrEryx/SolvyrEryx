@@ -33,16 +33,15 @@
 <div align="center">
 
 <!-- Bouncy SVG Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github.com/user-attachments/assets/3f12e4b7-1f76-4443-8c12-b54b4940bd8e" width="100%">
 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> **Tech Stack & Skills**
 
 <!-- Clean Tech Icons Row -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,opencv,git,docker,kubernetes,linux,bash,vscode&perline=13&theme=dark" />
-
-<br/><br/>
+<img src="https://github.com/user-attachments/assets/dc517581-6b0d-4174-a112-1f231ceb8ffa" />
+<br/><br/><br/>
 
 <!-- Stylish Tech Badges -->
 <img src="https://img.shields.io/badge/Machine_Learning-9D4EDD?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,7 +52,7 @@
 <img src="https://img.shields.io/badge/Penetration_Testing-10002B?style=for-the-badge&logo=kalilinux&logoColor=white" />
 
 <!-- Bouncy SVG Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github.com/user-attachments/assets/3f12e4b7-1f76-4443-8c12-b54b4940bd8e" width="100%">
 
 ---
 
@@ -61,35 +60,11 @@
 
 </div>
 
-### 🤖 **AI-DS-Masterpiece**
-
 <div align="center">
 
-[![Repo](https://img.shields.io/badge/View_Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolvyrEryx/AI-DS-Masterpiece)
+### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> 🚀 **CyberGuardians** - Advanced Security Framework
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-</div>
-
-**Advanced Machine Learning & Deep Learning solutions** with state-of-the-art algorithms  
-🎯 Neural Networks • Computer Vision • NLP • Predictive Analytics  
-📊 Real-time data processing and visualization dashboards  
-💜 Built with TensorFlow, PyTorch, and Scikit-learn  
-🐍 **Includes CNN Image Classifier with MNIST dataset**
-
-<div align="center">
-
-<!-- Bouncy SVG Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-</div>
-
-### 🛡️ **CyberGuardians**
-
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 [![Repo](https://img.shields.io/badge/View_Repository-7209B7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolvyrEryx/CyberGuardians)
 
@@ -109,7 +84,7 @@
 <div align="center">
 
 <!-- Bouncy SVG Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github.com/user-attachments/assets/3f12e4b7-1f76-4443-8c12-b54b4940bd8e" width="100%">
 
 ---
 
@@ -120,22 +95,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <!-- Bouncy SVG Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github.com/user-attachments/assets/3f12e4b7-1f76-4443-8c12-b54b4940bd8e" width="100%">
 
 ---
 
 ## 📊 **GitHub Stats**
 
 <img src="https://github-readme-stats.vercel.app/api?username=SolvyrEryx&show_icons=true&theme=midnight-purple&hide_border=false&border_color=9d4edd&bg_color=0d1117&title_color=9d4edd&icon_color=bb86fc&text_color=c9d1d9" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolvyrEryx&theme=midnight-purple&hide_border=false&border=9d4edd&background=0d1117&ring=9d4edd&fire=bb86fc&currStreakLabel=9d4edd" alt="GitHub Streak" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolvyrEryx&layout=compact&theme=midnight-purple&hide_border=false&border_color=9d4edd&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9" alt="Top Languages" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=SolvyrEryx&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" alt="GitHub Trophies" />
 
 <!-- Bouncy SVG Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://github.com/user-attachments/assets/3f12e4b7-1f76-4443-8c12-b54b4940bd8e" width="100%">
 
 ---
 
