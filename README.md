@@ -26,7 +26,7 @@
 🔐 **Cybersecurity** Enthusiast & Guardian  
 🌟 Building innovative solutions at the intersection of **AI, Data Science & Security**  
 💡 Turning data into insights, insights into action  
-🚀 Always exploring the latest in **Machine Learning** & **Cyber Defense**
+🚀 Always exploring the latest in **Machine Learning** & **Cyber Defense**  
 
 <br clear="both"/>
 
@@ -53,28 +53,20 @@
 <img src="https://img.shields.io/badge/NumPy-7209B7?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-560BAD?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-3C096C?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-240046?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-10002B?style=for-the-badge&logo=git&logoColor=white" />
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"> **Featured Projects**
+## 🚀 **Featured Projects**
 
-</div>
-
-<div align="center">
-
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> 🚀 **AI-DS-Masterpiece** - Advanced AI & Data Science Repository
-
-A comprehensive collection of cutting-edge AI and Data Science projects featuring MNIST CNN classifiers, LSTM stock price forecasters, and more. Built with Python, TensorFlow, and modern ML frameworks.
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Rocket" width="30" /> 📈 **AI-DS-Masterpiece** - AI & Data Science Projects Hub
+A comprehensive collection of cutting-edge AI and Data Science projects showcasing innovative solutions and practical implementations.
 
 [![Repo](https://img.shields.io/badge/Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolvyrEryx/AI-DS-Masterpiece)
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> 🔐 **CyberGuardians** - Advanced Security Framework
-
 A powerful cybersecurity framework designed to protect digital assets through advanced threat detection, penetration testing, and security analytics.
 
 [![Repo](https://img.shields.io/badge/Repository-7209B7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolvyrEryx/CyberGuardians)
@@ -98,17 +90,8 @@ A powerful cybersecurity framework designed to protect digital assets through ad
 
 ## 🌐 **Connect With Me**
 
-<a href="https://www.linkedin.com/in/solvyreryx" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 <a href="https://www.youtube.com/@SolvyrEryx" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-7209B7?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://twitter.com/SolvyrEryx" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-560BAD?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="mailto:solvyreryx@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-3C096C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/YouTube-9D4EDD?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
 
 <!-- Animated Divider -->
@@ -131,7 +114,7 @@ A powerful cybersecurity framework designed to protect digital assets through ad
 
 ## 💜 **Profile Views**
 
-<img src="https://komarev.com/ghpvc/?username=SolvyrEryx&label=Profile%20Views&color=9D4EDD&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SolvyrEryx&style=for-the-badge" alt="Profile Views" />
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=150&section=footer" width="100%"/>
