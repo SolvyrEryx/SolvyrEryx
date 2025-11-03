@@ -53,7 +53,19 @@
 <img src="https://img.shields.io/badge/Pandas-9D4EDD?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-7209B7?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-560BAD?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali_Linux-3C096C?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-3C096C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-240046?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-10002B?style=for-the-badge&logo=keras&logoColor=white" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-9D4EDD?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-7209B7?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-560BAD?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-3C096C?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-240046?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-10002B?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -62,15 +74,13 @@
 
 ## 🚀 **Featured Projects**
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Rocket" width="30" /> 📈 **AI-DS-Masterpiece** - AI & Data Science Projects Hub
+### 🔐 [CyberGuardians](https://github.com/SolvyrEryx/CyberGuardians)
 
-A comprehensive collection of cutting-edge AI and Data Science projects showcasing innovative solutions and practical implementations.
-
-[![Repo](https://img.shields.io/badge/Repository-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolvyrEryx/AI-DS-Masterpiece)
-
-### <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" /> 🔐 **CyberGuardians** - Advanced Security Framework
-
-A powerful cybersecurity framework designed to protect digital assets through advanced threat detection, penetration testing, and security analytics.
+A comprehensive cybersecurity toolkit featuring:
+- 🛡️ Advanced threat detection
+- 🔒 Security monitoring tools
+- 🔍 Vulnerability scanning
+- 📊 Real-time analytics
 
 [![Repo](https://img.shields.io/badge/Repository-7209B7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolvyrEryx/CyberGuardians)
 
@@ -96,6 +106,11 @@ A powerful cybersecurity framework designed to protect digital assets through ad
 <a href="https://www.youtube.com/@SolvyrEryx" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-9D4EDD?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
+<a href="https://www.linkedin.com/in/rahulj7777/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-7209B7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -110,6 +125,8 @@ A powerful cybersecurity framework designed to protect digital assets through ad
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SolvyrEryx/SolvyrEryx/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -118,18 +135,19 @@ A powerful cybersecurity framework designed to protect digital assets through ad
 ## 💜 **Profile Analytics**
 
 <!-- GitHub Traffic Stats (Manual Update) -->
-**Current Profile Views:** Update this number periodically to reflect your actual GitHub profile traffic.
 
+> **Current Profile Views:** Update this number periodically to reflect your actual GitHub profile traffic.
+> 
 > **Note:** GitHub doesn't provide a public API for automatic profile view tracking. To maintain accuracy:
+> 
 > 1. Check your profile traffic in **Settings → Insights → Traffic**
 > 2. Update the view count here manually whenever you check
 > 3. For automated tracking, consider using GitHub Actions with the GitHub API (requires authentication)
 
-**Last Updated:** October 30, 2025
+> **Last Updated:** October 30, 2025
 
 <!-- Alternative: Use GitHub Actions for Automated Updates -->
-<!-- 
-To implement auto-updating profile views:
+<!-- To implement auto-updating profile views:
 1. Create a GitHub Action workflow that runs on schedule
 2. Use GitHub's REST API to fetch repository statistics
 3. Update this README automatically via the workflow
@@ -138,5 +156,3 @@ To implement auto-updating profile views:
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20,24,27&height=150&section=footer" width="100%"/>
-
-</div>
